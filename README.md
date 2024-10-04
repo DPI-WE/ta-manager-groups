@@ -24,30 +24,37 @@
 <h3><a href="https://www.linkedin.com/in/josemontesdeocamorfin/"><img align="left" src="./linkedin1.webp" alt="LinkedIn icon" width="25px"/> LinkedIn</a></h3>
 <h3><a href="https://github.com/JoseMDO/"><img align="left" src="./github-2.webp" alt="GitHub" width="25px"/>GitHub</a></h3>
 
+[🧑‍🧒‍🧒 TA Group](./jose/jose-ta-group.md)
+
 ### Annie Huynh 
 <h3><a href="https://www.linkedin.com/in/annie-at-huynh/"><img align="left" src="./linkedin1.webp" alt="LinkedIn icon" width="25"/> LinkedIn</a></h3>
-
 <h3><a href="https://github.com/ahuynh3a"><img align="left" src="./github-2.webp" alt="GitHub" width="25px"/>GitHub</a></h3>
+
+[🧑‍🧒‍🧒 TA Group](./annie/annie-ta-group.md)
 
 ### Mary Webby 
 <h3><a href="https://www.linkedin.com/in/marywebby/"><img align="left" src="./linkedin1.webp" alt="LinkedIn icon" width="25"/> LinkedIn</a></h3>
-
 <h3><a href="https://github.com/marywebby"><img align="left" src="./github-2.webp" alt="GitHub" width="25px"/>GitHub</a></h3>
+
+[🧑‍🧒‍🧒 TA Group](./mary/mary-ta-group.md)
 
 ### Aldo Portillo
 <h3><a href="https://www.linkedin.com/in/aldoportillo/"><img align="left" src="./linkedin1.webp" alt="LinkedIn icon" width="25"/> LinkedIn</a></h3>
-
 <h3><a href="https://github.com/aldoportillo/"><img align="left" src="./github-2.webp" alt="GitHub" width="25px"/>GitHub</a></h3>
+
+[🧑‍🧒‍🧒 TA Group](./aldo/aldo-ta-group.md)
 
 ### Calvin Armstrong
 <h3><a href="https://www.linkedin.com/in/calvin-armstrong-6745b096/"><img align="left" src="./linkedin1.webp" alt="LinkedIn icon" width="25"/> LinkedIn</a></h3>
-
 <h3><a href="https://github.com/armstrca"><img align="left" src="./github-2.webp" alt="GitHub" width="25px"/>GitHub</a></h3>
+
+[🧑‍🧒‍🧒 TA Group](./calvin/calvin-ta-group.md)
 
 ### Chandu Bhumireddy
 <h3><a href="https://www.linkedin.com/in/chandhu-bhumireddy-022432190/"><img align="left" src="./linkedin1.webp" alt="LinkedIn icon" width="25"/> LinkedIn</a></h3>
-
 <h3><a href="https://github.com/bchandhu"><img align="left" src="./github-2.webp" alt="GitHub" width="25px"/>GitHub</a></h3>
+
+[🧑‍🧒‍🧒 TA Group](./chandu/chandu-ta-group.md)
 
 
 ## 🤝 Previous TAs: 
