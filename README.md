@@ -55,7 +55,7 @@
 
 ## To contribute / Make Changes
 * Clone this repo or create a codespace
-* Create an issue with your changes being made
+* Create new issue
 * Create a new branch with proper naming convention: (issue_number-initials-name_of_branch) "1-jm-add-initial-ta-groups"
 * Create a PR and merge your branch into main 
 
