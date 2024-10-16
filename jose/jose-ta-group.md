@@ -25,3 +25,7 @@
 | 9/25/2024 13:44:00 | alexroyf5@gmail.com          | Alex 	          | Royf         |
 | 9/25/2024 1:21:00  | gzkuang3@gmail.com           | Gary	          | Kaung        |
 | 09/25/2024 1:10    | pujari.lpk200@gmail.com      | Prasanna	      | Kumar        |
+| 10/16/2024 1:28:00 | Marla.ortiz0264@gmail.com    | Marla	          | Ortiz        |
+| 10/16/2024 1:40:00 | a.rojas5666m@gmail.com       | Andrea	      | Rojas        |
+| 10/16/2024 1:39:00 | jvarela83679@gmail.com       | Jesse 	      | Valera       |
+| 10/16/2024 1:40:00 | gtoledo550@gmail.com         | Gladys	      | Toledo       |    
